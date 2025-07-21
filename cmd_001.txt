@@ -16,3 +16,7 @@ git push -u origin main
 
 ------------------
 
+git remote set-url origin https://github.com/HARSHIT097/Data_structure_v1.git
+git pull origin main
+
+---------------
